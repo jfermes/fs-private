@@ -25,6 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+#include <limits>
 #include <aptk2/tools/logging.hxx>
 #include <vector>
 
